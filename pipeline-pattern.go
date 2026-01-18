@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func pipelinePattern() {
 	nums := []int{1, 2, 3, 4, 5}
 
 	// stage 1: convert to channel
